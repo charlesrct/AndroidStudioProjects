@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">aboutActivity</string>
+    <string name="appTitulo">Titulo Principal</string>
+    <string name="botonAbout">Ir a la Actividad About</string>
+    <string name="textoAbout">
+        \
+        Trilogía de Back to the Future Serie de películas La trilogía Back to the Future es un conjunto de tres películas de ciencia ficción dirigidas por Robert Zemeckis, producidas por Steven Spielberg, Bob Gale y Neil Canton y distribuidas por Universal Pictures. Sus protagonistas son Michael J. Wikipedia Productora: Amblin Entertainment
+        Director: Robert Zemeckis
+    </string>
+
+</resources>

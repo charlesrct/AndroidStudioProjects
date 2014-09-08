@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\pre-dexed\debug\classes-94a5fb80b9e90fa3c94bdd5c90ebd5afc6970ea4.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\pre-dexed\debug\classes-0453e7677c9d4a3f4236393bb34bbebbbe76a92c.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\pre-dexed\debug\android-support-v4-0a1e55d019c454e04817ad770c6e5b14d648fae1.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-0635ca76b904d66e277830ef983ab36ca46e2565.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\appAndroidStudio\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>

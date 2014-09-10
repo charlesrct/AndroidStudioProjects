@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\pre-dexed\debug\classes-6a569feb47e8fab403430c34eb21c45a5c9e0e4d.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.2.08\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\pre-dexed\debug\classes-1c7fa241d8ec76664e450910db0dfe00c681c7b2.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\pre-dexed\debug\classes-20a3834110ee2c0d6c7935959c2da536e636c187.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-e3550eaf021d759084b0f5e9a542f0a405c3c560.jar"
+        jar="C:\Users\Charlesrct\Documents\GitHub\findfriends-master\MapaApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
